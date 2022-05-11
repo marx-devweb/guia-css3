@@ -1,8 +1,8 @@
-# Padding e Dimensões
+# CSS - Propriedade `padding`
 
 #### Assuntos abordados: 
 
-- [](aulas/)
-- [](aulas/)
-- [](aulas/)
-- [](aulas/)
+- [Propriedade `padding`](aulas/)
+- [Propriedade `height` e `width`](aulas/)
+- [Propriedade `max-width`](aulas/)
+- [Box model](aulas/)
