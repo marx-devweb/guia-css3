@@ -1,8 +1,11 @@
-# Bordas
+# CSS - Propriedade `border`
 
 #### Assuntos abordados: 
 
-- [](aulas/)
-- [](aulas/)
-- [](aulas/)
+- [Introdução](aulas/)
+- [Largura da borda](aulas/)
+- [Cor da borda](aulas/)
+- [Lados da borda](aulas/)
+- [Abreviação](aulas/)
+- [Bordas arredondadas](aulas/)
 - [](aulas/)
