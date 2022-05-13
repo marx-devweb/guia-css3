@@ -1,4 +1,4 @@
-# CSS - Propriedade `outline`
+# Outline
 
 #### Assuntos abordados: 
 

@@ -1,8 +1,8 @@
-# CSS - Propriedade `border`
+# Bordas
 
 #### Assuntos abordados: 
 
-1. [Introdução](aulas/4.1-bordas-introducao)
+1. [Introdução](aulas/4.1-introducao)
 
 2. [Propriedade `border-width`](aulas/4.2-border-width)
 

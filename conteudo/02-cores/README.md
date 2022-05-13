@@ -1,8 +1,9 @@
-# Cores CSS
+# Cores
 
 #### Assuntos abordados: 
 
-- [Cores - Introdução](aulas/2.1-cores)
-- [Cores RGB](aulas/2.2-cores-rgb)
-- [Cores HEX](aulas/2.3-cores-hex)
-- [Cores HSL](aulas/2.4-cores-hsl)
+1. [Introdução](aulas/2.1-cores)
+2. [Cores RGB](aulas/2.2-cores-rgb)
+3. [Cores HEX](aulas/2.3-cores-hex)
+4. [Cores HSL](aulas/2.4-cores-hsl)
+

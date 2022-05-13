@@ -1,4 +1,4 @@
-# CSS - Propriedade `background`
+# Background
 
 #### Assuntos abordados: 
 

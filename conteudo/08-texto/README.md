@@ -1,4 +1,4 @@
-# CSS - Propriedades de texto
+# Texto
 
 #### Assuntos abordados: 
 
