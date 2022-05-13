@@ -2,7 +2,6 @@
 
 #### Assuntos abordados: 
 
-- [](aulas/)
-- [](aulas/)
-- [](aulas/)
-- [](aulas/)
+- [Sprites de imagem](aulas/)
+
+  

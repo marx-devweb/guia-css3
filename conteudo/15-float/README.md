@@ -2,7 +2,8 @@
 
 #### Assuntos abordados: 
 
-- [](aulas/)
-- [](aulas/)
-- [](aulas/)
-- [](aulas/)
+- [Propriedade `float`](aulas/15.1-float)
+
+- [Propriedade `clear`](aulas/15.2-clear)
+
+  
