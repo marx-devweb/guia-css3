@@ -1,6 +1,6 @@
-# Margens
+# Definindo `margin`
 
 #### Assuntos abordados: 
 
 - [Propriedade `margin`](aulas/5.1-margin)
-- [Recolher a Margem](aulas/5.2-recolher-margin)
+- [Recolhendo a `margin`](aulas/5.2-recolher-margin)

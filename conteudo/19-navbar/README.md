@@ -1,4 +1,4 @@
-# NavBar
+# Demonstração de Barra de Navegação (navbar)
 
 #### Assuntos abordados: 
 

@@ -1,4 +1,4 @@
-# Float
+# Propriedades `float` e `clear`
 
 #### Assuntos abordados: 
 

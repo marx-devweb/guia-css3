@@ -1,4 +1,4 @@
-# Web Design Responsivo
+# Layouts Responsivo
 
 #### Assuntos abordados: 
 

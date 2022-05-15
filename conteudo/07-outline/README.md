@@ -1,4 +1,4 @@
-# Outline
+# Propriedades de `outline`
 
 #### Assuntos abordados: 
 

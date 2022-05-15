@@ -1,4 +1,4 @@
-# Gradientes
+# Tipos de Gradientes
 
 #### Assuntos abordados: 
 
