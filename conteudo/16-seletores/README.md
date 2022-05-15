@@ -1,4 +1,4 @@
-# Seletores
+# Tipos de seletores
 
 #### Assuntos abordados: 
 

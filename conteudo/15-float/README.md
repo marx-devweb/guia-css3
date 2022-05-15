@@ -1,9 +1,9 @@
-# Propriedades `float` e `clear`
+# Definindo elementos flutuantes com as propriedades `float` e `clear`
 
 #### Assuntos abordados: 
 
-- [Propriedade `float`](aulas/15.1-float)
+1. [Propriedade `float`](aulas/15.1-float)
 
-- [Propriedade `clear`](aulas/15.2-clear)
+2. [Propriedade `clear`](aulas/15.2-clear)
 
-  
+   

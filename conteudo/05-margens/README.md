@@ -1,6 +1,6 @@
-# Definindo `margin`
+# Definindo espaçamento externo com a propriedade `margin`
 
 #### Assuntos abordados: 
 
-- [Propriedade `margin`](aulas/5.1-margin)
-- [Recolhendo a `margin`](aulas/5.2-recolher-margin)
+1. [Propriedade `margin`](aulas/5.1-margin)
+2. [Recolhendo a `margin`](aulas/5.2-recolher-margin)
