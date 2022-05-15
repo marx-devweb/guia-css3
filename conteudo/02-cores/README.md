@@ -1,4 +1,4 @@
-# Cores
+# Definindo Cores
 
 #### Assuntos abordados: 
 
