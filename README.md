@@ -7,10 +7,10 @@ Todo o conteúdo abordado neste repositório, foi com base no curso de CSS3 real
 
 ### CONTEÚDO ABORDADO:
 
-1. [Introdução](conteudo/01-introducao)
+1. [Introdução ao CSS](conteudo/01-introducao)
 2. [Definindo Cores](conteudo/02-cores)
-3. [Tipos de Background ](conteudo/03-backgrounds)
-4. [Tipos de Bordas](conteudo/04-bordas)
+3. [Definindo planos de fundo com as propriedades `background`](conteudo/03-backgrounds)
+4. [Definindo bordas com as propriedades `border`](conteudo/04-bordas)
 5. [Definindo espaçamento externo com a propriedade `margin`](conteudo/05-margens)
 6. [Definindo espaçamento interno com a propriedade `padding`](conteudo/06-padding-e-dimensoes)
 7. [Definindo contorno com a propriedade `outline`](conteudo/07-outline)
