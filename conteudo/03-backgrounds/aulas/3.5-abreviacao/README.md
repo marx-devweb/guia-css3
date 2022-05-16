@@ -1,4 +1,4 @@
-# Título
+# Abreviação
 
 
 
@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [](/conteudo/)
+> **PRÓXIMO CONTEÚDO:** [Definindo bordas com a propriedade `border`](/conteudo/04-bordas)
 
 ***
 

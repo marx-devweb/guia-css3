@@ -1,4 +1,4 @@
-# Titulo
+# Propriedade `background-repeat`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Propriedade `background-attachment`](../3.4-background-attachment)
 
 ***
 
