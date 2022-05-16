@@ -1,4 +1,4 @@
-# Titulo
+# Como adicionar o CSS3
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Comentários](../1.6-comentarios)
 
 ***
 

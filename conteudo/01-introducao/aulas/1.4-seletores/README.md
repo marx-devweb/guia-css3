@@ -1,4 +1,4 @@
-# Titulo
+# Seletores
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Como adicionar CSS3](../1.5-como-adicionar-css)
 
 ***
 

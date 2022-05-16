@@ -1,4 +1,4 @@
-# Titulo
+# Sintaxe
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Seletores](../1.4-seletores)
 
 ***
 
