@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO TEMA:** [Definindo planos de fundo com a propriedade `background`.](/conteudo/03-backgrounds)
+> **PRÓXIMO TEMA:** [Definindo planos de fundo - **Propriedade `background`**](/conteudo/03-backgrounds)
 
 ***
 

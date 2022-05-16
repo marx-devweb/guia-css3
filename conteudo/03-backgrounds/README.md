@@ -1,4 +1,4 @@
-# Definindo planos de fundo com a propriedade `background`
+# Definindo planos de fundo - **Propriedade `background`**
 
 #### Assuntos abordados: 
 
