@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [Definindo Cores](/conteudo/02-cores)
+> **PRÓXIMO TEMA:** [Definindo Cores](/conteudo/02-cores)
 
 ***
 
