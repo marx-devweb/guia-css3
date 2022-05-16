@@ -1,4 +1,4 @@
-# Título
+# Cores HSL
 
 
 
@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [](/conteudo/)
+> **PRÓXIMO CONTEÚDO:** [Definindo planos de fundo com a propriedade `background`.](/conteudo/03-backgrounds)
 
 ***
 

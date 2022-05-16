@@ -1,4 +1,4 @@
-# Titulo
+# Cores RGB
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Cores HEX](../2.3-cores-hex)
 
 ***
 
