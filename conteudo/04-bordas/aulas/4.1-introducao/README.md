@@ -1,4 +1,4 @@
-# Titulo
+# Bordas Introdução
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo a espessura da borda - **Propriedade `border-width`**](../4.2-border-width)
 
 ***
 

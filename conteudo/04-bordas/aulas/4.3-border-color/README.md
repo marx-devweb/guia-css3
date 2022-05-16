@@ -1,4 +1,4 @@
-# Titulo
+# Definindo a cor da borda - Propriedade `border-color`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo bordas arredondadas - **Propriedade `border-radius`**](../4.4-border-radius)
 
 ***
 

@@ -1,4 +1,4 @@
-# Titulo
+# Definindo espaçamento externo - Propriedade `margin`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Recolhendo margem](../5.2-recolher-margin)
 
 ***
 

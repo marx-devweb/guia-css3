@@ -1,4 +1,4 @@
-# Titulo
+# Definindo bordas arredondadas - Propriedade `border-radius`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo bordas com os lados diferentes](../4.5-lados-da-borda)
 
 ***
 

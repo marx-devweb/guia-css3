@@ -1,4 +1,4 @@
-# Titulo
+# Definindo bordas com os lados diferentes
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Abreviando o código](../4.6-abreviacao)
 
 ***
 

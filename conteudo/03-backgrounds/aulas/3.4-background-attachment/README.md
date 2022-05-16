@@ -1,4 +1,4 @@
-# Propriedade `background-attachment`
+# Definindo uma imagem fixa ou com rolagem - Propriedade `background-attachment`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [Abreviação](../3.5-abreviacao)
+> **PRÓXIMO AULA:** [Abreviando o código](../3.5-abreviacao)
 
 ***
 

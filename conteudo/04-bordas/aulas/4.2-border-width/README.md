@@ -1,4 +1,4 @@
-# Titulo
+# Definindo a espessura da borda - Propriedade `border-width`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo a cor da borda - **Propriedade `border-color`**](../4.3-border-color)
 
 ***
 

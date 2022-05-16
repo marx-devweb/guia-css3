@@ -1,4 +1,4 @@
-# Propriedade `background-image`
+# Definindo uma imagem de fundo - Propriedade `background-image`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [Propriedade `background-repeat`](../3.3-background-repeat)
+> **PRÓXIMO AULA:** [Definindo repetições da imagem - **Propriedade `background-repeat`**](../3.3-background-repeat)
 
 ***
 

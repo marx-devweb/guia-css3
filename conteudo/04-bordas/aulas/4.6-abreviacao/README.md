@@ -1,4 +1,4 @@
-# Título
+# Abreviando o código
 
 
 
@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO TEMA:** [Definindo espaçamento externo com a propriedade `margin`](/conteudo/05-margens)
+> **PRÓXIMO TEMA:** [Definindo espaçamento externo - **Propriedade `margin`**](/conteudo/05-margens)
 
 ***
 
