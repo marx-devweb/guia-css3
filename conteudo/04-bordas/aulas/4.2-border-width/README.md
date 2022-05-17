@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [Definindo a cor da borda - **Propriedade `border-color`**](../4.3-border-color)
+> **PRÓXIMO AULA:** [Definindo a cor da borda - Propriedade `border-color`](../4.3-border-color)
 
 ***
 

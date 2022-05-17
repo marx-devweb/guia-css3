@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO TEMA:** [Definindo espaçamento interno - **Propriedade `padding`**](/conteudo/06-padding-e-dimensoes)
+> **PRÓXIMO TEMA:** [Definindo espaçamento interno - Propriedade `padding`](/conteudo/06-padding-e-dimensoes)
 
 ***
 

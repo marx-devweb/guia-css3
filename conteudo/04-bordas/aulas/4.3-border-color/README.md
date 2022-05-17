@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [Definindo bordas arredondadas - **Propriedade `border-radius`**](../4.4-border-radius)
+> **PRÓXIMO AULA:** [Definindo bordas arredondadas - Propriedade `border-radius`](../4.4-border-radius)
 
 ***
 

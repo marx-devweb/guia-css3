@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [Definindo uma imagem de fundo - **Propriedade `background-image`**](../3.2-background-image)
+> **PRÓXIMO AULA:** [Definindo uma imagem de fundo - Propriedade `background-image`](../3.2-background-image)
 
 ***
 

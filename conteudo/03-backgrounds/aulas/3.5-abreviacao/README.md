@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO TEMA:** [Definindo bordas - **Propriedade `border`**](/conteudo/04-bordas)
+> **PRÓXIMO TEMA:** [Definindo bordas - Propriedade `border`](/conteudo/04-bordas)
 
 ***
 

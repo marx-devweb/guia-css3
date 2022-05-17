@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [Definindo contorno - **Propriedade `outline`**](/conteudo/07-outline)
+> **PRÓXIMO TEMA:** [Definindo contorno - Propriedade `outline`](/conteudo/07-outline)
 
 ***
 
