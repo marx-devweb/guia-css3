@@ -1,4 +1,4 @@
-# Titulo
+# Definindo a transformação do texto - Propriedade `text-transform`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo o espaçamento do texto](../8.5-espacamento-texto)
 
 ***
 

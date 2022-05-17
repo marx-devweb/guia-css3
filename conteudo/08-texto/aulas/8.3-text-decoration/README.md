@@ -1,4 +1,4 @@
-# Titulo
+# Definindo a decoração do texto - Propriedade `text-decoration`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo a transformação do texto - Propriedade `text-transform`](../8.4-text-transform)
 
 ***
 

@@ -1,4 +1,4 @@
-# Titulo
+# Definindo a cor do texto - Propriedade `color`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo o alinhamento do texto - Propriedade `text-align`](../8.2-text-align)
 
 ***
 

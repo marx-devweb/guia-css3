@@ -1,4 +1,4 @@
-# Titulo
+# Definindo o alinhamento do texto - Propriedade `text-align`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo a decoração do texto - Propriedade `text-decoration`](../8.3-text-decoration)
 
 ***
 
