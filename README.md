@@ -12,7 +12,7 @@ Todo o conteúdo abordado neste repositório, foi com base no curso de CSS3 real
 3. [Definindo planos de fundo - **propriedade `background`**](conteudo/03-backgrounds)
 4. [Definindo bordas - **Propriedade `border`**](conteudo/04-bordas)
 5. [Definindo espaçamento externo - **Propriedade `margin`**](conteudo/05-margens)
-6. [Definindo espaçamento interno - **Propriedade `padding`**](conteudo/06-padding-e-dimensoes)
+6. [Definindo espaçamento interno - **Propriedade `padding`** / Definindo dimensões](conteudo/06-padding-e-dimensoes)
 7. [Definindo contorno - **Propriedade `outline`**](conteudo/07-outline)
 8. [Formatando texto](conteudo/08-texto)
 9. [Definindo fontes](conteudo/09-fontes)

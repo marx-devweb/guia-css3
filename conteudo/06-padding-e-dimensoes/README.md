@@ -1,8 +1,15 @@
-# Definindo espaçamento interno com a propriedade `padding`
+# Definindo espaçamento interno - Propriedade `padding` 
 
 #### Assuntos abordados: 
 
-1. [Propriedade `padding`](aulas/6.1-padding)
-2. [Propriedade `height` e `width`](aulas/6.2-height-width)
-3. [Propriedade `max-width`](aulas/6.3-max-width)
-4. [Box Model](aulas/6.4-box-model)
+- [Definindo o espaçamento interno - **Propriedade `padding`**](aulas/6.1-padding)
+
+
+
+## Definindo as dimensões 
+
+#### Assuntos abordados: 
+
+1. [Definindo altura, largura e largura máxima - **Propriedades `height`, `width` e `max-width`**](aulas/6.2-height-width)
+2. [Modelo de caixa](aulas/6.4-box-model)
+
