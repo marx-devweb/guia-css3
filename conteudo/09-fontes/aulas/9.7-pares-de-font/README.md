@@ -1,4 +1,4 @@
-# Titulo
+# Combinando fontes
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Abreviando o código - Propriedade `font`](../9.8-propriedades-da-font)
 
 ***
 

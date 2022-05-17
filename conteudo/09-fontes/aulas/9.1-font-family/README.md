@@ -1,4 +1,4 @@
-# Titulo
+# Definindo uma família de fonte - Propriedade `font-family`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo fontes seguras](../9.2-font-segura-para-web)
 
 ***
 

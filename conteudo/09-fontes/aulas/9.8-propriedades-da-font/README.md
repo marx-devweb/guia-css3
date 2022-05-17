@@ -1,4 +1,4 @@
-# Título
+# Abreviando o código - Propriedade `font`
 
 
 
@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [](/conteudo/)
+> **PRÓXIMO CONTEÚDO:** [Utilizando ícones](/conteudo/10-icons)
 
 ***
 

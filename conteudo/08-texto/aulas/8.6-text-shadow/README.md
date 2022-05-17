@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [Definindo fontes](/conteudo/09-fontes)
+> **PRÓXIMO TEMA:** [Definindo fontes](/conteudo/09-fontes)
 
 ***
 

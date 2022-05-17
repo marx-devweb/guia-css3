@@ -1,4 +1,4 @@
-# Titulo
+# Utilizando fontes do Google
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Combinando fontes](../9.7-pares-de-font)
 
 ***
 

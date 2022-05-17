@@ -1,4 +1,4 @@
-# Titulo
+# Definindo um conjunto de fontes (fallbacks)
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo o estilo da fonte - Propriedades `font-style`, `font-weight` e `font-variant`](../9.4-font-style)
 
 ***
 

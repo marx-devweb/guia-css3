@@ -1,4 +1,4 @@
-# Titulo
+# Definindo o estilo da fonte - Propriedades `font-style`, `font-weight` e `font-variant`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo o tamanho da fonte - Propriedade `font-size`](../9.5-font-size)
 
 ***
 
