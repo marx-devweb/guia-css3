@@ -1,4 +1,4 @@
-# Título
+# Modelo de caixa
 
 
 
@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [](/conteudo/)
+> **PRÓXIMO CONTEÚDO:** [Definindo contorno - **Propriedade `outline`**](/conteudo/07-outline)
 
 ***
 
