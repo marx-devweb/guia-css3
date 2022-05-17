@@ -1,4 +1,4 @@
-# Titulo
+# Definindo o deslocamento do contorno - Propriedade `outline-offset`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Abreviando o código](../7.5-abreviacao)
 
 ***
 

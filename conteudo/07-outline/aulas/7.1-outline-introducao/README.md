@@ -1,4 +1,4 @@
-# Titulo
+# Definindo contorno do elemento - Introdução
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo a largura do contorno - Propriedade `outline-width`](../7.2-outline-width)
 
 ***
 

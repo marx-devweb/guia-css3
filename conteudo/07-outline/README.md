@@ -1,4 +1,4 @@
-# Definindo contorno - Propriedade `outline`
+# Definindo contorno do elemento - Propriedade `outline`
 
 #### Assuntos abordados: 
 

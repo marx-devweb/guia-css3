@@ -1,4 +1,4 @@
-# Titulo
+# Definindo a largura do contorno - Propriedade `outline-width`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo a cor do contorno - Propriedade `outline-color`](../7.3-outline-color)
 
 ***
 

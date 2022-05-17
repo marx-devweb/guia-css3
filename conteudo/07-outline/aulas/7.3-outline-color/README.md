@@ -1,4 +1,4 @@
-# Titulo
+# Definindo a cor do contorno - Propriedade `outline-color`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo o deslocamento do contorno - Propriedade `outline-offset`](../7.4-outline-offset)
 
 ***
 

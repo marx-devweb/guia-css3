@@ -1,4 +1,4 @@
-# Título
+# Abreviando o código
 
 
 
@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [](/conteudo/)
+> **PRÓXIMO TEMA:** [Formatando texto](/conteudo/08-texto)
 
 ***
 
