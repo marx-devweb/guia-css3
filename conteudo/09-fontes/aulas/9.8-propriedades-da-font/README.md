@@ -13,4 +13,4 @@
 
 > **FONTE DO CONTEÚDO**:
 >
-> - [W3Schools - ]()
+> - [W3Schools - Abreviando o código]()
