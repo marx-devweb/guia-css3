@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [Utilizando ícones](/conteudo/10-icons)
+> **PRÓXIMO TEMA:** [Utilizando ícones](/conteudo/10-icons)
 
 ***
 
