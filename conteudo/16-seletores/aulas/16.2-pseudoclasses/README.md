@@ -1,4 +1,4 @@
-# Titulo
+# Pseudo-classes
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Pseudo-elements](../16.3-pseudo-elementos)
 
 ***
 

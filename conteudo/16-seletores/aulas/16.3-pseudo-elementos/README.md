@@ -1,4 +1,4 @@
-# Titulo
+# Pseudo-elements
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Seletores de atributos](../16.4-seletores-de-atributos)
 
 ***
 

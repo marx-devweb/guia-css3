@@ -1,4 +1,4 @@
-# Titulo
+# Seletores de atributos
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Especificidade](../16.5-especificidade)
 
 ***
 

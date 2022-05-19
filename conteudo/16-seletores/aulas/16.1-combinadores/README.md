@@ -1,4 +1,4 @@
-# Titulo
+# Combinadores
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Pseudo-classes](../16.2-pseudoclasses)
 
 ***
 
