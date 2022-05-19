@@ -1,4 +1,4 @@
-# Titulo
+# Definindo o tamanho da tabela
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo o alinhamento da tabela](../13.3-table-alignment)
 
 ***
 

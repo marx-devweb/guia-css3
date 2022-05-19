@@ -1,4 +1,4 @@
-# Título
+# Definindo uma tabela responsiva
 
 
 
@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [](/conteudo/)
+> **PRÓXIMO TEMA:** [Layout e Visibilidade](/conteudo/14-visibilidade-e-layout)
 
 ***
 

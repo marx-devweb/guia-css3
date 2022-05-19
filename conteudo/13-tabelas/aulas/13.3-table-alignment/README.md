@@ -1,4 +1,4 @@
-# Titulo
+# Definindo o alinhamento da tabela
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo estilos da tabela](../13.4-table-style)
 
 ***
 

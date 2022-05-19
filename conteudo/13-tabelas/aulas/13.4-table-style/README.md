@@ -1,4 +1,4 @@
-# Titulo
+# Definindo estilos da tabela
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo uma tabela responsiva](../13.5-table-responsive)
 
 ***
 
