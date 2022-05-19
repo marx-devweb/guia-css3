@@ -1,4 +1,4 @@
-# Titulo
+# Definindo o alinhamento de um elemento
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo a opacidade/transparência de um elemento - Propriedade `opacty`](../14.7-opacity)
 
 ***
 

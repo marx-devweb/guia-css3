@@ -1,4 +1,4 @@
-# Titulo
+# Definindo ordem de pilha de um elemento - Propriedade `z-index`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo o comportamento do conteúdo quando for maior que a área disponível  - Propriedade `overflow`](../14.4-overflow)
 
 ***
 

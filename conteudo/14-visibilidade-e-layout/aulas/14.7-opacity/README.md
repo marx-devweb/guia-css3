@@ -1,4 +1,4 @@
-# Titulo
+# Definindo a opacidade/transparência de um elemento - Propriedade `opacty`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Layout de um Web Site](../14.8-website-layout)
 
 ***
 

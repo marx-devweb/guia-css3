@@ -1,4 +1,4 @@
-# Titulo
+# Definindo largura e altura do elemento sem adicionar quebra de linha - Propriedade `display:` `inline-block`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo o alinhamento de um elemento](../14.6-align)
 
 ***
 

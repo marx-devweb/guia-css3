@@ -1,4 +1,4 @@
-# Titulo
+# Definindo a exibição do elemento - Propriedade `display:` ` block` ou `inline`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo o tipo de método de posicionamento do elemento - Propriedade `position`](../14.2-position)
 
 ***
 

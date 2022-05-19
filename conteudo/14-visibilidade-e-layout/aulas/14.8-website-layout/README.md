@@ -1,4 +1,4 @@
-# Título
+# Layout de um Web Site
 
 
 
@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [](/conteudo/)
+> **PRÓXIMO TEMA:** [Definindo elementos flutuantes com as propriedades `float` e `clear`](/conteudo/15-float)
 
 ***
 

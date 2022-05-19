@@ -1,4 +1,4 @@
-# Titulo
+# Definindo o comportamento do conteúdo quando for maior que a área disponível  - Propriedade `overflow`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo largura e altura do elemento sem adicionar quebra de linha - Propriedade `display:` `inline-block`](../14.5-inline-block)
 
 ***
 
