@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../table-size)
+> **PRÓXIMO AULA:** [Definindo o tamanho da tabela](../table-size)
 
 ***
 
