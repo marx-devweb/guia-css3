@@ -1,4 +1,4 @@
-# Titulo
+# A regra `!important`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Funções matemáticas](../18.4-funcoes-matematicas)
 
 ***
 

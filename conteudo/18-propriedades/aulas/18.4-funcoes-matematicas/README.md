@@ -1,4 +1,4 @@
-# Título
+# Funções matemáticas
 
 
 
@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [](/conteudo/)
+> **PRÓXIMO CONTEÚDO:** [Demonstração de Barra de Navegação (navbar)](/conteudo/19-navbar)
 
 ***
 
