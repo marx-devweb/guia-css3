@@ -1,4 +1,4 @@
-# Título
+# Definindo o comportamento de um elemento quando tiver elementos flutuantes ao seu lado - Propriedade `clear`
 
 
 
@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [](/conteudo/)
+> **PRÓXIMO TEMA:** [Tipos de seletores](/conteudo/16-seletores)
 
 ***
 

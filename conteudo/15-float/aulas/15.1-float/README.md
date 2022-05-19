@@ -1,4 +1,4 @@
-# Titulo
+# Definindo uma flutuação para um elemento - Propriedade `float`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo o comportamento de um elemento quando tiver elementos flutuantes ao seu lado - Propriedade `clear`](../15.2-clear)
 
 ***
 
