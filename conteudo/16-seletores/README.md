@@ -1,4 +1,4 @@
-# Tipos de seletores
+# Tipos de seletores para definir quais elementos um conjunto de regras CSS se aplica.
 
 #### Assuntos abordados: 
 

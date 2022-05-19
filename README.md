@@ -22,7 +22,7 @@ Todo o conteúdo abordado neste repositório, foi com base no curso de CSS3 real
 13. [Formatando tabelas](conteudo/13-tabelas)
 14. [Layout e visibilidade](conteudo/14-visibilidade-e-layout)
 15. [Definindo elementos flutuantes -  Propriedades `float` e `clear`](conteudo/15-float)
-16. [Tipos de seletores](conteudo/16-seletores)
+16. [Tipos de seletores para definir quais elementos um conjunto de regras CSS se aplica.](conteudo/16-seletores)
 17. [Combinando várias imagens em uma única imagem (sprites de imagem)](conteudo/17-sprites-de-imagem)
 18. [Propriedades CSS](conteudo/18-propriedades)
 19. [Demonstração de barra de navegação (navbar)](conteudo/19-navbar)

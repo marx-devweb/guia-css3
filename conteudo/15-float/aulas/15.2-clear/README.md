@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO TEMA:** [Tipos de seletores](/conteudo/16-seletores)
+> **PRÓXIMO TEMA:** [Tipos de seletores para definir quais elementos um conjunto de regras CSS se aplica.](/conteudo/16-seletores)
 
 ***
 
