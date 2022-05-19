@@ -25,7 +25,7 @@ Todo o conteúdo abordado neste repositório, foi com base no curso de CSS3 real
 16. [Tipos de seletores para definir quais elementos um conjunto de regras CSS se aplica.](conteudo/16-seletores)
 17. [Combinando várias imagens em uma única imagem (sprites de imagem)](conteudo/17-sprites-de-imagem)
 18. [Propriedades CSS](conteudo/18-propriedades)
-19. [Demonstração de barra de navegação (navbar)](conteudo/19-navbar)
+19. [Criando uma barra de navegação (navbar)](conteudo/19-navbar)
 20. [Outras demonstrações](conteudo/20-demos)
 21. [CSS Avançado](conteudo/21-css-avancado)
 22. [Definindo gradientes - Propriedade `gradient`](conteudo/22-gradientes)

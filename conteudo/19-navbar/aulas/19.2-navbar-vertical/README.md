@@ -1,4 +1,4 @@
-# Titulo
+# Barra de navegação na vertical
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Barra de navegação na horizontal](../19.3-navbar-horizontal)
 
 ***
 

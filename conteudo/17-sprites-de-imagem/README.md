@@ -4,7 +4,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [Propriedades](/conteudo/18-propriedades)
+> **PRÓXIMO TEMA:** [Propriedades](/conteudo/18-propriedades)
 
 ***
 

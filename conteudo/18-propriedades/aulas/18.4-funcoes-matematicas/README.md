@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [Demonstração de Barra de Navegação (navbar)](/conteudo/19-navbar)
+> **PRÓXIMO TEMA:** [Criando uma barra de navegação (navbar)](/conteudo/19-navbar)
 
 ***
 

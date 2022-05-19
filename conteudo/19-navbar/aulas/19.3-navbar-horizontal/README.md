@@ -1,4 +1,4 @@
-# Título
+# Barra de navegação na horizontal
 
 
 
@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [](/conteudo/)
+> **PRÓXIMO TEMA:** [Outros exemplos](/conteudo/20-demos)
 
 ***
 
