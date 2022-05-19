@@ -26,7 +26,7 @@ Todo o conteúdo abordado neste repositório, foi com base no curso de CSS3 real
 17. [Combinando várias imagens em uma única imagem (sprites de imagem)](conteudo/17-sprites-de-imagem)
 18. [Propriedades CSS](conteudo/18-propriedades)
 19. [Criando uma barra de navegação (navbar)](conteudo/19-navbar)
-20. [Outras demonstrações](conteudo/20-demos)
+20. [Outros exemplos](conteudo/20-demos)
 21. [CSS Avançado](conteudo/21-css-avancado)
 22. [Definindo gradientes - Propriedade `gradient`](conteudo/22-gradientes)
 23. [Definindo sombras - Propriedades `text-shadow` e `box-shadow`](conteudo/23-shadows)

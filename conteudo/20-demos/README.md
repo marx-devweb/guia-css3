@@ -1,11 +1,11 @@
-# Outras demonstrações
+# Outras exemplos
 
 #### Assuntos abordados: 
 
-1. [Listas Suspensas](aulas/20.1-lista-suspensas)
+1. [Criando uma listas suspensas](aulas/20.1-lista-suspensas)
 
-2. [Galeria de Imagens](aulas/20.2-galeria-de-imagens)
+2. [Criando uma galeria de imagens](aulas/20.2-galeria-de-imagens)
 
-3. [Formulários](aulas/20.3-formularios)
+3. [Criando um formulário](aulas/20.3-formularios)
 
    

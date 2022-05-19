@@ -1,4 +1,4 @@
-# Titulo
+# Criando uma galeria de imagens
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Criando um formulário](../20.3-formularios)
 
 ***
 
