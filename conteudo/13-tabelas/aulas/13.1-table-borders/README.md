@@ -1,4 +1,4 @@
-# Definindo o tamanho da tabela
+# Definindo as bordas da tabela
 
 
 
