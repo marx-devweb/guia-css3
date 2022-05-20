@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO TEMA:** [Definindo um efeito de sombra - Propriedades `text-shadow` e `box-shadow`](/conteudo/23-shadows)
+> **PRÓXIMO TEMA:** [Adicionando efeito de sombra - Propriedades `text-shadow` e `box-shadow`](/conteudo/23-shadows)
 
 ***
 
