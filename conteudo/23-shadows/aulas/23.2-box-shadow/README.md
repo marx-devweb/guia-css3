@@ -1,4 +1,4 @@
-# Título
+# Adicionando efeito de sombra em volta de um elemento - Propriedade `box-shadow`
 
 
 
@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [](/conteudo/)
+> **PRÓXIMO TEMA:** [Variáveis](/conteudo/24-variaveis)
 
 ***
 
