@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [Definindo uma imagem como borda - Propriedade `border-image`](../aulas/21.2-border-image)
+> **PRÓXIMO AULA:** [Definindo uma imagem como borda - Propriedade `border-image`](../21.2-border-image)
 
 ***
 
