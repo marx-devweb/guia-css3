@@ -1,4 +1,4 @@
-# Titulo
+# Definindo um gradiente radial - Propriedade `radial-gradient`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo um gradiente cônico - Propriedade `conic-gradient`](../22.3-gradiente-conic)
 
 ***
 

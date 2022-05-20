@@ -1,4 +1,4 @@
-# Definindo sombras com as propriedades `text-shadow` e `box-shadow`
+# Definindo efeito de sombra - Propriedades `text-shadow` e `box-shadow`
 
 #### Assuntos abordados: 
 

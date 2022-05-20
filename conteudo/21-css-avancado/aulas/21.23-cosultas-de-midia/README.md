@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [Definindo gradientes - Propriedade `gradient`](/conteudo/22-gradientes)
+> **PRÓXIMO TEMA:** [Definindo gradientes - Propriedade `gradient`](/conteudo/22-gradientes)
 
 ***
 

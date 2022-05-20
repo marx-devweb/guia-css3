@@ -1,4 +1,4 @@
-# Titulo
+# Definindo um gradiente linear - Propriedade `linear-gradient`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo um gradiente radial - Propriedade `radial-gradient`](../22.2-gradiente-radial)
 
 ***
 

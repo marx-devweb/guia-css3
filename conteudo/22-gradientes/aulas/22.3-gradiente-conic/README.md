@@ -1,4 +1,4 @@
-# Título
+# Definindo um gradiente cônico - Propriedade `conic-gradient`
 
 
 
@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [](/conteudo/)
+> **PRÓXIMO TEMA:** [Definindo um efeito de sombra - Propriedades `text-shadow` e `box-shadow`](/conteudo/23-shadows)
 
 ***
 

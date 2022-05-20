@@ -29,7 +29,7 @@ Todo o conteúdo abordado neste repositório, foi com base no curso de CSS3 real
 20. [Outros exemplos](conteudo/20-demos)
 21. [CSS Avançado](conteudo/21-css-avancado)
 22. [Definindo gradientes - Propriedade `gradient`](conteudo/22-gradientes)
-23. [Definindo sombras - Propriedades `text-shadow` e `box-shadow`](conteudo/23-shadows)
+23. [Definindo efeito de sombra - Propriedades `text-shadow` e `box-shadow`](conteudo/23-shadows)
 24. [Variáveis](conteudo/24-variaveis)
 25. [Layout Flexbox](conteudo/25-flexbox)
 26. [Layout Responsivo](conteudo/26-responsive)
