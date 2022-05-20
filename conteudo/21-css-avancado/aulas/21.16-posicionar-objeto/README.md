@@ -1,4 +1,4 @@
-# Titulo
+# Posicionando um objeto - Propriedade `object-position`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo uma imagem de mascara - Propriedade `mask-image`](../21.17-imagem-de-mascara)
 
 ***
 

@@ -1,4 +1,4 @@
-# Titulo
+# Definindo uma imagem como borda - Propriedade `border-image`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo varias imagens de fundo - Propriedade `background-image`](../21.3-background-image)
 
 ***
 

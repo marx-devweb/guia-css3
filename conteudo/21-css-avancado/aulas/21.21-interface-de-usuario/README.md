@@ -1,4 +1,4 @@
-# Titulo
+# Definindo interface de usuário - Propriedade `resize` e `outline-offset`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Dimensionamento da caixa - Propriedade `box-sizing`](../21.22-dimensionamento-da-caixa)
 
 ***
 

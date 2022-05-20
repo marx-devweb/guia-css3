@@ -1,4 +1,4 @@
-# Titulo
+# Dicas de ferramenta
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Estilizando imagens](../21.13-estilzado-imagens)
 
 ***
 

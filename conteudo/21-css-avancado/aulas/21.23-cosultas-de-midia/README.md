@@ -1,4 +1,4 @@
-# Título
+# Consultas de mídia
 
 
 
@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [](/conteudo/)
+> **PRÓXIMO CONTEÚDO:** [Definindo gradientes - Propriedade `gradient`](/conteudo/22-gradientes)
 
 ***
 

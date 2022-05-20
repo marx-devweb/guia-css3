@@ -1,4 +1,4 @@
-# Titulo
+# Paginações
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo um layout de várias colunas - Propriedade `column`](../21.20-varias-colunas)
 
 ***
 

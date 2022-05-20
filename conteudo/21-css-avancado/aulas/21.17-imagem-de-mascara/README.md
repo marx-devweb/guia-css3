@@ -1,4 +1,4 @@
-# Titulo
+# Definindo uma imagem de mascara - Propriedade `mask-image`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Estilizando botões](../21.18-estilizado-botoes)
 
 ***
 

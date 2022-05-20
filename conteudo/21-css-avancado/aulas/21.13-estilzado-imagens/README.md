@@ -1,4 +1,4 @@
-# Titulo
+# Estilizando imagens
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Refletindo uma imagem - Propriedade `box-reflect`](../21.14-refletir-imagem)
 
 ***
 

@@ -1,4 +1,4 @@
-# Titulo
+# Refletindo uma imagem - Propriedade `box-reflect`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Redimensionando um objeto - Propriedade `object-fit`](../21.15-redimensionar-objeto)
 
 ***
 

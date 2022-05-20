@@ -1,4 +1,4 @@
-# Titulo
+# Definindo um elemento com animações - Propriedade `animations`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Dicas de ferramenta](../21.12-dicas-de-ferramenta)
 
 ***
 

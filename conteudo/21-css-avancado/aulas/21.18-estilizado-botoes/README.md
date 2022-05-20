@@ -1,4 +1,4 @@
-# Titulo
+# Estilizando botões
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Paginações](../21.19-paginacao)
 
 ***
 

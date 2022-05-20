@@ -1,4 +1,4 @@
-# Titulo
+# Definindo efeitos de transição - Propriedade `transition`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo um elemento com animações - Propriedade `animations`](../21.11-animacoes)
 
 ***
 

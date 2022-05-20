@@ -1,4 +1,4 @@
-# Titulo
+# Dimensionamento da caixa - Propriedade `box-sizing`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Consultas de mídia](../21.23-cosultas-de-midia)
 
 ***
 

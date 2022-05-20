@@ -1,4 +1,4 @@
-# Titulo
+# Definindo um layout de várias colunas - Propriedade `column`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo interface de usuário - Propriedade `resize` e `outline-offset`](../21.21-interface-de-usuario)
 
 ***
 

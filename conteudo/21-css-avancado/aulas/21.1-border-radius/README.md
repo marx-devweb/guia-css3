@@ -1,4 +1,4 @@
-# Titulo
+# Definindo cantos arredondados - Propriedade `border-radius`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo uma imagem como borda - Propriedade `border-image`](../aulas/21.2-border-image)
 
 ***
 

@@ -1,4 +1,4 @@
-# Definindo gradientes com a propriedade `gradient`
+# Definindo gradientes - Propriedade `gradient`
 
 #### Assuntos abordados: 
 

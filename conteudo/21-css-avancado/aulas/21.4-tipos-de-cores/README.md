@@ -1,4 +1,4 @@
-# Titulo
+# Tipos de cores
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Palavras-chave: `transparent`, `currentcolor`, e `inherit`](../21.5-palavras-chave)
 
 ***
 

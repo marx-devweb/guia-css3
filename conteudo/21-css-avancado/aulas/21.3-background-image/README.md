@@ -1,4 +1,4 @@
-# Titulo
+# Definindo varias imagens de fundo - Propriedade `background-image`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Tipos de cores](../21.4-tipos-de-cores)
 
 ***
 
