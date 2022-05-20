@@ -1,4 +1,4 @@
-# Titulo
+# Imagens
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Vídeos](../26.6-videos)
 
 ***
 

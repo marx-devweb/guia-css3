@@ -1,4 +1,4 @@
-# Titulo
+# Definindo item
 
 
 
@@ -10,12 +10,6 @@
 ```
 
 
-
-
-
-***
-
-> **PRÓXIMO AULA:** [](../)
 
 ***
 

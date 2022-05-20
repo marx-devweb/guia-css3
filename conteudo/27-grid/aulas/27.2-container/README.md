@@ -1,4 +1,4 @@
-# Titulo
+# Definindo um container
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo item](../27.3-item)
 
 ***
 

@@ -1,4 +1,4 @@
-# Titulo
+# Layout Responsivo - Introdução
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo uma janela de visualização - Viewport](../26.2-viewport)
 
 ***
 

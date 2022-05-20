@@ -1,4 +1,4 @@
-# Titulo
+# Definindo itens
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Flex responsivo](../25.4-responsive)
 
 ***
 

@@ -1,4 +1,4 @@
-# Titulo
+# Definindo uma janela de visualização - Viewport
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo uma exibição de grade responsiva](../26.3-grid-view)
 
 ***
 

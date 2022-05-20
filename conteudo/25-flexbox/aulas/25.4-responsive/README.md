@@ -1,4 +1,4 @@
-# Título
+# Flex responsivo
 
 
 
@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [](/conteudo/)
+> **PRÓXIMO TEMA:** [Layout responsivo](/conteudo/26-responsive)
 
 ***
 

@@ -1,4 +1,4 @@
-# Titulo
+# Vídeos
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Frameworks](../26.7-frameworks)
 
 ***
 

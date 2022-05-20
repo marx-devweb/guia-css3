@@ -1,4 +1,4 @@
-# Titulo
+# Consulta de mídia - Regra `@media`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Imagens](../26.5-images)
 
 ***
 

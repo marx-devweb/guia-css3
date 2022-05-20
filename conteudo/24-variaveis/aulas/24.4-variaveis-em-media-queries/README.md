@@ -1,4 +1,4 @@
-# Título
+# Usando variáveis em Media Queries
 
 
 
@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [](/conteudo/)
+> **PRÓXIMO TEMA:** [Layout Flexbox](/conteudo/25-flexbox)
 
 ***
 

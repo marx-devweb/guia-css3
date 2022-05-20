@@ -1,4 +1,4 @@
-# Titulo
+# Definindo uma exibição de grade responsiva
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Consulta de mídia - Regra `@media`](../26.4-media-queries)
 
 ***
 

@@ -1,4 +1,4 @@
-# Titulo
+# Alterar variáveis com JavaScript
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Usando variáveis em Media Queries](../24.4-variaveis-em-media-queries)
 
 ***
 

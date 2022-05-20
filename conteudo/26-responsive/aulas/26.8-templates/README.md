@@ -1,4 +1,4 @@
-# Título
+# Templates
 
 
 
@@ -6,7 +6,7 @@
 
 ***
 
-> **PRÓXIMO CONTEÚDO:** [](/conteudo/)
+> **PRÓXIMO TEMA:** [Layout Grid](/conteudo/27-grid)
 
 ***
 

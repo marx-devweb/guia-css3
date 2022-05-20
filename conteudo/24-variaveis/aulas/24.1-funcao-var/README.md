@@ -1,4 +1,4 @@
-# Titulo
+# Função `var()`
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Substituindo Variáveis](../24.2-substituindo-variaveis)
 
 ***
 

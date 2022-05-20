@@ -1,4 +1,4 @@
-# Titulo
+# Substituindo Variáveis
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Alterar variáveis com JavaScript](../24.3-variaveis-e-javascript)
 
 ***
 

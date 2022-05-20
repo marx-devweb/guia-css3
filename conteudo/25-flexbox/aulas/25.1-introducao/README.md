@@ -1,4 +1,4 @@
-# Titulo
+# Flexbox - Introdução
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo um container](../25.2-container)
 
 ***
 

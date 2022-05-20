@@ -1,4 +1,4 @@
-# Titulo
+# Layout Grid - Introdução
 
 
 
@@ -15,7 +15,7 @@
 
 ***
 
-> **PRÓXIMO AULA:** [](../)
+> **PRÓXIMO AULA:** [Definindo um container](../27.2-container)
 
 ***
 

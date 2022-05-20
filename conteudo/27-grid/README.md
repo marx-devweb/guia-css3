@@ -4,8 +4,8 @@
 
 1. [Introdução](aulas/27.1-introducao)
 
-2. [Container](aulas/27.2-container)
+2. [Definindo um container](aulas/27.2-container)
 
-3. [Item](aulas/27.3-item)
+3. [Definindo item](aulas/27.3-item)
 
    
