@@ -1,68 +1,61 @@
 # Seletores
 
-Um seletor CSS é a primeira parte de uma regra CSS. Ele informa o navegador quais elementos HTML deve ser selecionado para que os valores das propriedades CSS sejam aplicados a eles, ou seja, ele selecionam os elementos HTML a serem estilizados.
+Um seletor CSS é a primeira parte de uma regra CSS. Ele seleciona os elementos HTML que serão estilizados.
+
+### Seletor de elementos
+
+Selecionas os elementos HTML pelo nome do elemento.
+
+###### Exemplo:
+
+```css
+p {
+    text-aling: center;
+    color: red;
+}
+```
 
 ---
 
-### Lista de seletores
+### Agrupamento de seletores 
 
-Quando possuímos mais de um elemento que possui a mesma formatação CSS com seletores individuais, podemos combina-lós em uma *lista de seletores* para que a regra seja aplicada a todos os seletores individuais.
+Seleciona todos os elementos HTML com as mesma definições de estilo.
 
-No exemplo abaixo, temos 2 regras CSS, uma para o elemento `h1` e uma para a classe `.special`:
+No exemplo abaixo, os elementos `h1`, `h2` e `p` possui as mesma definições de estilo:
 
 ```css
 h1 {
-  color: blue;
+  text-align: center;
+  color: red;
 }
 
-.special {
-  color: blue;
+h2 {
+  text-align: center;
+  color: red;
+}
+
+p {
+  text-align: center;
+  color: red;
 }
 ```
 
-Podemos combina-lós em uma lista de seletores, adicionando uma vírgula entre eles.
+Podemos agrupa-los em uma lista de seletores separando cada seletor com uma vírgula:
 
 ```css
-h1, .special {
-  color: blue;
+h1, h2, p {
+  text-align: center;
+  color: red;
 }
 ```
-
-Quando agrupamos seletores dessa forma, se algum seletor for inválido, toda a regra será ignorada.
 
 ---
 
-### Tipos de seletores
+### Seletor universal
 
-Existem alguns grupos diferentes de seletores:
+Seleciona todos os elementos HTML de uma página. Ele e indicado por um (`*`).
 
-#### Seletores de tipo
-
-Este seletor as vezes é chamado de seletor de *nome de tag* ou seletor de *elemento*, pois seleciona uma tag/elemento HTML no documento.
-
-No exemplo abaixo, utilizamos os seletores `span`, `em` e `strong`:
-
-```css
-span {
-    background-color: yellow;
-}
-
-strong {
-    color: rebeccapurple;
-}
-
-em {
-    color: rebeccapurple;
-}
-```
-
-<br>
-
-#### Seletor universal
-
-Este seletor é indicado por um asterisco (`*`). Ele seleciona tudo dentro do documento (ou dentro do elemento pai se estiver sendo encadeado com outro elemento e um combinador descendente). 
-
-No exemplo abaixo, o seletor universal remove as margens de todos os elementos.
+No abaixo, o seletor universal remove as margens da página.
 
 ```css
 * {
@@ -70,7 +63,66 @@ No exemplo abaixo, o seletor universal remove as margens de todos os elementos.
 }
 ```
 
+---
+
+### Seletor de class
+
+Seleciona os elementos HTML com um atributo de class específico. 
+
+Este seletor é declarado com um caractere `.` seguido pelo nome da class. 
+
+No exemplo abaixo, todos os elementos com a `class="destaque"` receberam a estilização:
+
+```html
+<body>
+    <h1>Seletor de Classe</h1>
+    <p>Veggies es bonus vobis, proinde vos postulo essum magis <span class="destaque">kohlrabi welsh onion</span> daikon amaranth tatsoi tomatillo melon azuki bean garlic.
+    </p>
+    <p class="destaque">Gumbo beet greens corn soko <strong>endive</strong> gumbo gourd. Parsley shallot courgette tatsoi pea sprouts fava bean collard greens dandelion okra wakame tomato. Dandelion cucumber earthnut pea peanut soko zucchini.
+    </p>
+</body>
+```
+
+```css
+.destaque {
+    background-color: yellow
+}
+```
+
+Também podemos criar regras CSS individuais para elementos com a mesma class aplicada.
+
+No código HTML abaixo, o cabeçalho `<h1>` e o elemento `<span>` possui a mesma `class="destaque"` aplicada.
+
+```html
+...
+<body>
+    <h1 class="destaque">Seletor de Classe</h1>
+    <p>Veggies es bonus vobis, proinde vos postulo essum magis <span class="destaque">kohlrabi welsh onion</span> daikon amaranth tatsoi tomatillo melon azuki bean garlic.
+    </p>    
+</body>
+...
+```
+
+Mesmo com a mesma `class="destaque"` aplicada, vamos estilizar `<h1>` e `<span>` com backgrounds de cor diferentes. Fazemos isso usando o seletor de tipo para o elemento que queremos direcionar, com a classe anexada usando um ponto, sem espaço em branco no meio.
+
+```css
+h1.destaque{
+    background-color:yellow;
+}
+
+span.destaque{
+    bacground-color:blue;
+    color:white;
+}
+```
+
 <br>
+
+#### Seletores de ID
+
+Este seletor começa com o caractere (`#`). 
+
+
 
 
 
