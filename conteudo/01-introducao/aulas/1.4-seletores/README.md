@@ -2,16 +2,25 @@
 
 Um seletor CSS é a primeira parte de uma regra CSS. Ele seleciona os elementos HTML que serão estilizados.
 
-### Seletor de elementos
+### Seletores de elementos
 
 Selecionas os elementos HTML pelo nome do elemento.
 
 ###### Exemplo:
 
 ```css
+h2 {
+    background-color: blue;
+    color: white;
+}
+
 p {
     text-aling: center;
     color: red;
+}
+
+span {
+    background-color: yellow;
 }
 ```
 
@@ -40,7 +49,7 @@ p {
 }
 ```
 
-Podemos agrupa-los em uma lista de seletores separando cada seletor com uma vírgula:
+Para agrupa-los em uma lista de seletores, separamos cada seletor com uma vírgula:
 
 ```css
 h1, h2, p {
@@ -55,7 +64,7 @@ h1, h2, p {
 
 Seleciona todos os elementos HTML de uma página. Ele e indicado por um (`*`).
 
-No abaixo, o seletor universal remove as margens da página.
+O exemplo abaixo, remove as margens da página.
 
 ```css
 * {
@@ -65,23 +74,13 @@ No abaixo, o seletor universal remove as margens da página.
 
 ---
 
-### Seletor de class
+### Seletor de classe
 
 Seleciona os elementos HTML com um atributo de class específico. 
 
 Este seletor é declarado com um caractere `.` seguido pelo nome da class. 
 
-No exemplo abaixo, todos os elementos com a `class="destaque"` receberam a estilização:
-
-```html
-<body>
-    <h1>Seletor de Classe</h1>
-    <p>Veggies es bonus vobis, proinde vos postulo essum magis <span class="destaque">kohlrabi welsh onion</span> daikon amaranth tatsoi tomatillo melon azuki bean garlic.
-    </p>
-    <p class="destaque">Gumbo beet greens corn soko <strong>endive</strong> gumbo gourd. Parsley shallot courgette tatsoi pea sprouts fava bean collard greens dandelion okra wakame tomato. Dandelion cucumber earthnut pea peanut soko zucchini.
-    </p>
-</body>
-```
+###### exemplo:
 
 ```css
 .destaque {
@@ -89,9 +88,9 @@ No exemplo abaixo, todos os elementos com a `class="destaque"` receberam a estil
 }
 ```
 
-Também podemos criar regras CSS individuais para elementos com a mesma class aplicada.
+Também podemos definir quais elementos HTML que possuem a mesma class receba a definição de estilo.
 
-No código HTML abaixo, o cabeçalho `<h1>` e o elemento `<span>` possui a mesma `class="destaque"` aplicada.
+No código HTML abaixo, os elementos `<h1>` e  `<span>` possui a mesma `class="destaque"`.
 
 ```html
 ...
@@ -103,7 +102,9 @@ No código HTML abaixo, o cabeçalho `<h1>` e o elemento `<span>` possui a mesma
 ...
 ```
 
-Mesmo com a mesma `class="destaque"` aplicada, vamos estilizar `<h1>` e `<span>` com backgrounds de cor diferentes. Fazemos isso usando o seletor de tipo para o elemento que queremos direcionar, com a classe anexada usando um ponto, sem espaço em branco no meio.
+Vamos estilizar `<h1>` e `<span>` com backgrounds de cor diferentes. 
+
+Fazemos isso usando o seletor de tipo para o elemento que queremos direcionar, com a classe anexada usando um ponto, sem espaço em branco no meio.
 
 ```css
 h1.destaque{
@@ -116,101 +117,46 @@ span.destaque{
 }
 ```
 
-<br>
+**Os elementos HTML também pode receber mais de uma class.**
 
-#### Seletores de ID
+###### código HTML:
 
-Este seletor começa com o caractere (`#`). 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Seletores de tipo, classe e ID
-
-Selecionam elementos HTML, como um `<h1>`:
-
-``` css
-h1 { }
+```html
+<p class="texto-centralizado texto-grande">Este paragrafo esta centralizado e tem um tamanho de 30px.</p>
 ```
 
-Selecionam classe:
-
-``` css
-.box { }
-```
-
-É também ID:
-
-``` css
-#unique { }
-```
-
-<br>
-
-#### Seletores de atributos:
-
-Este grupo de seletores oferece diferentes maneiras de selecionar elementos com base na presença de um determinado atributo em um elemento:
-
-``` css
-a[title] { }
-```
-
-Ou ainda fazer uma seleção com base na presença de um atributo com um determinado valor:
-
-``` css
-a[href="https://example.com"] { }
-```
-
-<br>
-
-#### Seletores de pseudo-classes
-
-Este seletor estiliza certos estados de um elemento. Por exemplo, a pseudo-classe `:hover`, seleciona um elemento apenas quando ele está sendo passado pelo ponteiro do mouse:
+###### código CSS:
 
 ```css
-a:hover { }
+.texto-centralizado{
+    text-aling: center;
+}
+
+.texto-grande{
+    font-size:30px
+}
 ```
 
-<br>
+---
 
-#### Seletores de pseudo-elementos
+### Seletores de ID
 
-Este seletor selecionam uma determinada parte de um elemento em vez do próprio elemento. Por exemplo, `::first-line` sempre seleciona a primeira linha de texto dentro de um determinado elemento.
+Seleciona um elemento HTML com um atributo de id específico. 
+
+Ele é utilizado da mesma maneira que um seletor de class. No entanto, este seletor so pode ser usado uma vez por página, e os elementos só podem ter um único lavor `id` aplicado.  
+
+Este seletor começa com o caractere `#` seguido pelo nome do elemento `id`.
+
+###### exemplo:
 
 ```css
-p::first-line { }
+#container {
+    width:720px;
+    heigth: 300px;    
+    background-color: blue;
+    color:white;
+}
 ```
-
-<br>
-
-#### Seletores combinadores
-
-Este grupo de seletores combina outros seletores para direcionar elementos em nossos documentos. No exemplo abaixo, o seletor seleciona parágrafos que são filhos diretos de elementos `<article>` usando o combinador filho (`>`):
-
-``` css
-article > p { }
-```
-
-
-
-
 
 ***
 
