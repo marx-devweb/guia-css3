@@ -169,7 +169,7 @@ Seleciona todos os elementos HTML de uma página.
 
 <br>
 
-#### Seletore de agrupamento
+#### Seletor de agrupamento
 
 Seleciona todos os elementos HTML com as mesma definições de estilo.
 
@@ -237,7 +237,7 @@ Este tipo de folha de estilo deve ser declarada dentro do elemento `<style>` na 
 
 <br>
 
-### CSS inline
+#### CSS inline
 
 É usado para estilizar um elemento HTML específico. 
 
@@ -252,7 +252,7 @@ Para utilizar o css inline, devemos adicionar o atributo **style** no elemento q
 
 ---
 
-### Cometários
+### Comentários
 
 Os comentários começa com `/*` e termina com `*/`.
 
