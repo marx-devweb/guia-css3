@@ -77,4 +77,4 @@ O parâmetro alfa é um número entre 0,0 (totalmente transparente) e 1,0 (nada 
 
 > **FONTE DO CONTEÚDO**:
 >
-> - [W3Schools - ]()
+> - [W3Schools - Cores HSL e HSLA](https://www.w3schools.com/css/css_colors_hsl.asp)

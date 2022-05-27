@@ -7,7 +7,7 @@ Todo o conteúdo abordado neste repositório, foi com base no curso de CSS3 real
 
 ### CONTEÚDO ABORDADO:
 
-1. [CSS3 - Introdução](conteudo/01-introducao)
+1. [Introdução ao CSS](conteudo/01-introducao)
 2. [Definindo cores](conteudo/02-cores)
 3. [Definindo planos de fundo - Propriedade `background`](conteudo/03-backgrounds)
 4. [Definindo bordas - Propriedade `border`](conteudo/04-bordas)
@@ -17,8 +17,8 @@ Todo o conteúdo abordado neste repositório, foi com base no curso de CSS3 real
 8. [Formatando texto](conteudo/08-texto)
 9. [Definindo fontes](conteudo/09-fontes)
 10. [Utilizando ícones](conteudo/10-icons)
-11. [Formatando links](conteudo/11-links)
-12. [Formatando listas](conteudo/12-listas)
+11. [Estilizando links](conteudo/11-links)
+12. [Estilizando listas](conteudo/12-listas)
 13. [Formatando tabelas](conteudo/13-tabelas)
 14. [Layout e visibilidade](conteudo/14-visibilidade-e-layout)
 15. [Definindo elementos flutuantes -  Propriedades `float` e `clear`](conteudo/15-float)

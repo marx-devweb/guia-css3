@@ -1,6 +1,4 @@
-# CSS3
-
-### Introdução
+# Introdução ao CSS3
 
 CSS é uma linguagem para estilizar páginas da web.
 
