@@ -54,7 +54,7 @@ Para definir a cor das bordas:
 
 ***
 
-> **PRÓXIMO AULA:** [Cores RGB](../2.2-cores-rgb)
+> **PRÓXIMA AULA:** [Cores RGB](../2.2-cores-rgb)
 
 ***
 

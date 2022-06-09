@@ -1,6 +1,6 @@
-# Flexbox - Introdução
+# Flexbox
 
-
+O  layout flexbox visa fornecer uma maneira mais eficiente de dispor, alinhar e distribuir o espaço entre os itens em um contêiner, mesmo quando seu tamanho é desconhecido e/ou dinâmico.
 
 
 
