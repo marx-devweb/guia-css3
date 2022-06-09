@@ -4,7 +4,7 @@ O **flexbox** nos permite criar um layout eficiente, alinhar e distribuir elemen
 
 > **Nota:** O **flexbox** é mais apropriado para os componentes de um aplicativo e layouts de pequena escala, enquanto o layout de **grid** é destinado a layouts de maior escala.
 
-#### Conceitos básicos
+### Conceitos básicos
 
 O Flexbox é um modulo que possui várias propriedades, sendo que algumas delas são definidas no elemento "pai", enquanto outras são definidas no elemento "filho".
 
@@ -37,26 +37,26 @@ O código HTML abaixo exemplifica uma estrutura básica:
 #### Propriedades definidas no elemento pai (contêiner flexível):
 
 - [`display`](01-propriedades-elemento-pai)
-- [`flex-direction`]()
-- [`flex-wrap`]()
-- [`flex-flow`]()
-- [`justify-content`]()
-- [`align-items`]()
-- [`align-content`]()
+- [`flex-direction`](01-propriedades-elemento-pai)
+- [`flex-wrap`](01-propriedades-elemento-pai)
+- [`flex-flow`](01-propriedades-elemento-pai)
+- [`justify-content`](01-propriedades-elemento-pai)
+- [`align-items`](01-propriedades-elemento-pai)
+- [`align-content`](01-propriedades-elemento-pai)
 
 #### Propriedades definidas no elemento filho (itens flexíveis):
 
 - [`order`](02-propriedades-elemento-filho)
-- [`flex-grow`]()
-- [`flex-shrink`]()
-- [`flex-basis`]()
-- [`flex`]()
-- [`align-self`]()
+- [`flex-grow`](02-propriedades-elemento-filho)
+- [`flex-shrink`](02-propriedades-elemento-filho)
+- [`flex-basis`](02-propriedades-elemento-filho)
+- [`flex`](02-propriedades-elemento-filho)
+- [`align-self`](02-propriedades-elemento-filho)
 
 ***
 
+#### FONTE DO CONTEÚDO:
 
-> **FONTE DO CONTEÚDO**:
->
-> - [W3Schools - Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
-> - [CSS TRICKS - Um guia completo para Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [W3Schools - Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+
+- [CSS TRICKS - Um guia completo para Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
