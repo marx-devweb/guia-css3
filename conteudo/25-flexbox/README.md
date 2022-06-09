@@ -8,7 +8,7 @@ O **flexbox** nos permite criar um layout eficiente, alinhar e distribuir elemen
 
 O Flexbox é um modulo que possui várias propriedades, sendo que algumas delas são definidas no elemento "pai", enquanto outras são definidas no elemento "filho".
 
-<img src="F:\guia-css3\conteudo\25-flexbox\img-01.svg" style="width: 600px;" />
+<img src="img-01.svg" style="width: 600px;" />
 
 - **main axis** (eixo principal) - é onde são inseridos os itens, o eixo principal pode ser tanto vertical quanto horizontal, dependendo da propriedade definida no `flex-direction`.
 - **main-start** | **main-end** (inicio | final) - os itens são dispostos no container a partir do inicio (main-start) em direção ao final (main-end).
