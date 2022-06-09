@@ -14,22 +14,37 @@ A principal ideia do layout Flexbox é dar ao contêiner a capacidade de alterar
 
 ---
 
-### Definindo um contêiner flexível
+### Definindo um contêiner flexível 
+
+Para começar a usar o modelo Flexbox, definiremos um contêiner flexível. 
+
+###### exemplo:
+
+```html
+<!--Aqui definimos um container flexível com 3 itens flexíveis-->
+<div class="container"><!--container-->
+  <div>item 1</div><!--item 1-->
+  <div>item 2</div><!--item 2-->
+  <div>item 3</div><!--item 3-->
+</div>
+```
+
+
+
+#### Propriedades CSS para um contêiner flexível:
+
+- `flex-direction`
+- `flex-wrap`
+- `flex-flow`
+- `justify-content`
+- `align-items`
+- `align-content`
 
 
 
 
 
-### Propriedades do Flexbox
 
-As propriedades para um contêiner flexível (elemento pai) são:
-
-- [`flex-direction`]()
-- [`flex-wrap`]()
-- [`flex-flow`]()
-- [`justify-content`]()
-- [`align-items`]()
-- [`align-content`]()
 
 As propriedades para itens flexíveis (elemento filho) são:
 
@@ -39,6 +54,28 @@ As propriedades para itens flexíveis (elemento filho) são:
 - [`flex-basis`]()
 - [`flex`]()
 - [`align-self`]()
+
+
+
+###### exemplo:
+
+
+
+
+
+###### exemplo:
+
+
+
+
+
+###### exemplo:
+
+
+
+
+
+###### exemplo:
 
 #### Assuntos abordados: 
 
