@@ -141,7 +141,7 @@ Define o alinhamento dos itens flexíveis verticalmente, seguindo a mesma ideia 
 
 ### `align-content`
 
-Assim como a propriedade `justify-content`, ele alinha alinha os itens flexíveis dentro do contêiner. Mas é importante notar que essa propriedade não tem efeito caso exista apenas uma linha de itens.
+Assim como a propriedade `justify-content`,  essa propriedade alinha os itens flexíveis dentro do contêiner. Mas é importante notar que essa propriedade não tem efeito caso exista apenas uma linha de itens.
 
 #### Valores da propriedade:
 
@@ -159,6 +159,9 @@ Assim como a propriedade `justify-content`, ele alinha alinha os itens flexívei
 ###### sintaxe:
 
 ```css
+.container {
+    align-content: flex-start | flex-end | center | space-between | space-around | space-evenly | stretch | start | end | baseline | first baseline | last baseline + ... safe | unsafe;
+}
 ```
 
 ***
@@ -168,3 +171,4 @@ Assim como a propriedade `justify-content`, ele alinha alinha os itens flexívei
 - [W3Schools - Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
 
 - [CSS TRICKS - Um guia completo para Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Widget Core](https://widgetcore.com/a-complete-guide-to-css-flexbox-properties/)
