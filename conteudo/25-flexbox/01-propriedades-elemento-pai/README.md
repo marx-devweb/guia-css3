@@ -171,4 +171,4 @@ Assim como a propriedade `justify-content`,  essa propriedade alinha os itens fl
 - [W3Schools - Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
 
 - [CSS TRICKS - Um guia completo para Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Widget Core](https://widgetcore.com/a-complete-guide-to-css-flexbox-properties/)
+- [WCore - CSS Flexbox e Propriedades](https://widgetcore.com/a-complete-guide-to-css-flexbox-properties/)
