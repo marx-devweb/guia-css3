@@ -97,6 +97,13 @@
 
 /*valores da propriedade align-items*/
 
+.container-align-items{
+    display: flex;
+    width: 600px;
+    height: 200px;
+    background-color: #1D2C3D; 
+}
+
 .valor-stretch {
     align-items: stretch;
 }
