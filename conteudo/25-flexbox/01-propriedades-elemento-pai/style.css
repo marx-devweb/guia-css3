@@ -1,0 +1,135 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 600px;
+    height: ;
+    padding: 20px;
+    margin: 10px;
+    background-color: #E5E5E5;
+    border: 2px solid #858585;
+
+}
+
+.container > h1{
+    margin-bottom: 10px;
+}
+
+.container > h2{
+    margin-top: 20px;
+    color: #5c5659;
+}
+
+
+.container-flex{
+    display: flex;
+    width: 600px;
+    background-color: #1D2C3D;  
+}
+
+.item-flex {
+    width: 50px;
+    background-color: #2374B6;
+    color: #FFFFFF;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+/*valores da propriedade flex-direction*/
+.valor-row{
+    flex-direction: row;
+}
+
+.valor-row-reverse{
+    flex-direction: row-reverse;
+}
+
+.valor-column{
+    flex-direction: column;
+}
+
+.valor-column-reverse{
+    flex-direction: column-reverse;
+}
+
+/*valores da propriedade flex-wrap*/
+.valor-nowrap{
+    flex-wrap: nowrap;
+}
+
+.valor-wrap{
+    flex-wrap: wrap;
+}
+
+.valor-wrap-reverse{
+    flex-wrap: wrap-reverse;
+}
+
+/*valores da propriedade justify-content*/
+.valor-flex-start{
+    justify-content: flex-start;
+}
+
+.valor-flex-end{
+    justify-content: flex-end;
+}
+
+.valor-center{
+    justify-content: center;
+}
+
+.valor-space-between{
+    justify-content: space-between;
+}
+
+.valor-space-around{
+    justify-content: space-around;
+}
+
+.valor-space-evenly{
+    justify-content: space-evenly;
+}
+
+/*valores da propriedade align-items*/
+
+.valor-stretch {
+    align-items: stretch;
+}
+
+.valor- {
+    align-items: ;
+}
+
+.valor- {
+    align-items: ;
+}
+
+.valor- {
+    align-items: ;
+}
+
+.valor- {
+    align-items: ;
+}
+
+.valor- {
+    align-items: ;
+}
+
+.valor- {
+    align-items: ;
+}
+
+.valor- {
+    align-items: ;
+}
+
+.valor- {
+    align-items: ;
+}
+

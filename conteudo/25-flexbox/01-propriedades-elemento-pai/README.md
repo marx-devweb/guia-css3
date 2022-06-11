@@ -2,7 +2,7 @@
 
 ### `display`
 
-É a propriedade que define um container flexível e coloca todos os itens (elementos filhos) em um contexto flexível.
+É a propriedade que define um contêiner flexível e coloca todos os itens (elementos filhos) em um contexto flexível.
 
 ###### sintaxe:
 
@@ -16,7 +16,7 @@
 
 ### `flex-direction`
 
-Define o eixo principal, ou seja, define em qual direção os itens flexíveis devem ser distribuídos no container.
+Define o eixo principal, ou seja, define em qual direção os itens flexíveis devem ser distribuídos no contêiner .
 
 #### Valores da propriedade:
 
@@ -25,7 +25,7 @@ Define o eixo principal, ou seja, define em qual direção os itens flexíveis d
 - **`column`**: de cima para baixo
 - **`column-reverse`**: de baixo para cima
 
-<img src="Flex-direction.webp" style="width:400px;" />
+<img src="imagens/Flex-direction.webp" style="width:400px;" />
 
 ###### sintaxe:
 
@@ -49,7 +49,7 @@ Podemos definir se os itens flexíveis devem ser encapsulados ou não.
 - **`wrap`**: os itens serão distribuídos em múltiplas linhas de cima para baixo
 - **`wrap-reverse`**: os itens serão distribuídos em múltiplas linhas de baixo para cima
 
-<img src="flex-wrap.webp" style="width:400px;">
+<img src="imagens/flex-wrap.webp" style="width:400px;">
 
 ###### sintaxe:
 
@@ -63,7 +63,7 @@ Podemos definir se os itens flexíveis devem ser encapsulados ou não.
 
 ### `flex-flow`
 
-Esta é a propriedade abreviada para `flex-direction` e `flex-wrap`. Ele permite definir as propriedades  `flex-direction` e `flex-wrap` juntas. 
+Esta é a propriedade abreviada para `flex-direction` e `flex-wrap`. Ele permite definir ambas as propriedades juntas. 
 
 O valor padrão para esta propriedade é: `row nowrap`.
 
@@ -103,7 +103,7 @@ Define o alinhamento dos itens flexíveis horizontalmente. Ela permite distribui
 
 - **`space-evenly`**: os itens são distribuídos de forma que os espaços entre dois itens sejam iguais (incluindo espaços nas bordas).
 
-<img src="justify-content.webp" style="width:600px;">
+<img src="imagens/justify-content.webp" style="width:600px;">
 
 ###### sintaxe:
 
@@ -127,7 +127,7 @@ Define o alinhamento dos itens flexíveis verticalmente, seguindo a mesma ideia 
 - **`center`**: os itens ficam centralizados no eixo vertical;
 - **`baseline`**: os itens são alinhas de acordo com suas baselines;
 
-<img src="align-items.webp" style="width:600px">
+<img src="imagens/align-items.webp" style="width:600px">
 
 ###### sintaxe:
 
@@ -154,7 +154,7 @@ Assim como a propriedade `justify-content`,  essa propriedade alinha os itens fl
 - **`space-evenly`**: os itens são distribuídos com espaço dividido igualmente entre eles;
 - **`stretch`**: os itens de cada linha se esticam para ocupar todo o espaço restante.
 
-<img src="align-content.webp" style="width:600px;">
+<img src="imagens/align-content.webp" style="width:600px;">
 
 ###### sintaxe:
 
