@@ -11,7 +11,8 @@
 
 <body>
     <div class="container">
-        <h1>Propriedade Flex</h1>
+        <h1>Propriedade display</h1>
+        <h2>Valor: flex</h2>
         <div class="container-flex">
             <div class="item-flex">Item 1</div>
             <div class="item-flex">Item 2</div>
@@ -19,6 +20,7 @@
         </div>
     </div>
 
+    <!--Propriedade flex-direction-->
     <div class="container">
         <h1>Propriedade flex-direction</h1>
         <h2>Valor: row</h2>
@@ -50,6 +52,7 @@
         </div>
     </div>
 
+    <!--Propriedade flex-wrap-->
     <div class="container">
         <h1>Propriedade flex-wrap</h1>
         <h2>Valor: nowrap</h2>
@@ -74,6 +77,12 @@
             <div class="item-flex">Item 6</div>
             <div class="item-flex">Item 7</div>
             <div class="item-flex">Item 8</div>
+            <div class="item-flex">Item 9</div>
+            <div class="item-flex">Item 10</div>
+            <div class="item-flex">Item 11</div>
+            <div class="item-flex">Item 12</div>
+            <div class="item-flex">Item 13</div>
+            <div class="item-flex">Item 14</div>
         </div>
 
         <h2>Valor: wrap-reverse</h2>
@@ -86,67 +95,84 @@
             <div class="item-flex">Item 6</div>
             <div class="item-flex">Item 7</div>
             <div class="item-flex">Item 8</div>
+            <div class="item-flex">Item 9</div>
+            <div class="item-flex">Item 10</div>
+            <div class="item-flex">Item 11</div>
+            <div class="item-flex">Item 12</div>
+            <div class="item-flex">Item 13</div>
+            <div class="item-flex">Item 14</div>
         </div>
     </div>
 
+    <!--Propriedade flex-flow-->
     <div class="container">
         <h1>Propriedade flex-flow</h1>
-        <div class="container-flex flex-flow">
+        <h2>valores: row-reverse e wrap-reverse</h2>
+        <div class="container-flex valor-flex-flow-1">
+            <div class="item-flex">Item 1</div>
+            <div class="item-flex">Item 2</div>
+            <div class="item-flex">Item 3</div>
+        </div>
+
+        <h2>valores: column wrap</h2>
+        <div class="container-flex valor-flex-flow-2">
             <div class="item-flex">Item 1</div>
             <div class="item-flex">Item 2</div>
             <div class="item-flex">Item 3</div>
         </div>
     </div>
 
+    <!--Propriedade justify-content-->
     <div class="container">
         <h1>Propriedade justify-content</h1>
         <h2>Valor: flex-start</h2>
-        <div class="container-flex valor-flex-start">
+        <div class="container-flex jc-valor-flex-start">
             <div class="item-flex">Item 1</div>
             <div class="item-flex">Item 2</div>
             <div class="item-flex">Item 3</div>
         </div>
 
         <h2>Valor: flex-end</h2>
-        <div class="container-flex valor-flex-end">
+        <div class="container-flex jc-valor-flex-end">
             <div class="item-flex">Item 1</div>
             <div class="item-flex">Item 2</div>
             <div class="item-flex">Item 3</div>
         </div>
 
         <h2>Valor: center</h2>
-        <div class="container-flex valor-center">
+        <div class="container-flex jc-valor-center">
             <div class="item-flex">Item 1</div>
             <div class="item-flex">Item 2</div>
             <div class="item-flex">Item 3</div>
         </div>
 
         <h2>Valor: space-between</h2>
-        <div class="container-flex valor-space-between">
+        <div class="container-flex jc-valor-space-between">
             <div class="item-flex">Item 1</div>
             <div class="item-flex">Item 2</div>
             <div class="item-flex">Item 3</div>
         </div>
 
         <h2>Valor: space-around</h2>
-        <div class="container-flex valor-space-around">
+        <div class="container-flex jc-valor-space-around">
             <div class="item-flex">Item 1</div>
             <div class="item-flex">Item 2</div>
             <div class="item-flex">Item 3</div>
         </div>
 
         <h2>Valor: space-evenly</h2>
-        <div class="container-flex valor-space-evenly">
+        <div class="container-flex jc-valor-space-evenly">
             <div class="item-flex">Item 1</div>
             <div class="item-flex">Item 2</div>
             <div class="item-flex">Item 3</div>
         </div>
     </div>
 
+    <!--Propriedade align-items-->
     <div class="container">
         <h1>Propriedade align-items</h1>
         <h2>Valor: stretch</h2>
-        <div class="container-align-items valor-stretch">
+        <div class="container-align-items ai-valor-stretch">
             <div class="item-flex">Item 1</div>
             <div class="item-flex">Item 2</div>
             <div class="item-flex">Item 3</div>
@@ -156,95 +182,155 @@
         </div>
 
         <h2>Valor: flex-start</h2>
-        <div class="container-align-items valor-flex-start">
-            <div class="item-flex">Item 1</div>
-            <div class="item-flex">Item 2</div>
-            <div class="item-flex">Item 3</div>
-            <div class="item-flex">Item 4</div>
-            <div class="item-flex">Item 5</div>
-            <div class="item-flex">Item 6</div>
-        </div>
-
-        <h2>Valor: start</h2>
-        <div class="container-align-items valor-start">
-            <div class="item-flex">Item 1</div>
-            <div class="item-flex">Item 2</div>
-            <div class="item-flex">Item 3</div>
-            <div class="item-flex">Item 4</div>
-            <div class="item-flex">Item 5</div>
-            <div class="item-flex">Item 6</div>
-        </div>
-
-        <h2>Valor: self-start</h2>
-        <div class="container-align-items valor-self-start">
-            <div class="item-flex">Item 1</div>
-            <div class="item-flex">Item 2</div>
-            <div class="item-flex">Item 3</div>
-            <div class="item-flex">Item 4</div>
-            <div class="item-flex">Item 5</div>
-            <div class="item-flex">Item 6</div>
+        <div class="container-align-items ai-valor-flex-start">
+            <div class="item-flex-tm1">Item 1</div>
+            <div class="item-flex-tm2">Item 2</div>
+            <div class="item-flex-tm3">Item 3</div>
+            <div class="item-flex-tm1">Item 4</div>
+            <div class="item-flex-tm2">Item 5</div>
+            <div class="item-flex-tm3">Item 6</div>
         </div>
 
         <h2>Valor: flex-end</h2>
-        <div class="container-align-items valor-flex-end">
-            <div class="item-flex">Item 1</div>
-            <div class="item-flex">Item 2</div>
-            <div class="item-flex">Item 3</div>
-            <div class="item-flex">Item 4</div>
-            <div class="item-flex">Item 5</div>
-            <div class="item-flex">Item 6</div>
-        </div>
-
-        <h2>Valor: end</h2>
-        <div class="container-align-items valor-end">
-            <div class="item-flex">Item 1</div>
-            <div class="item-flex">Item 2</div>
-            <div class="item-flex">Item 3</div>
-            <div class="item-flex">Item 4</div>
-            <div class="item-flex">Item 5</div>
-            <div class="item-flex">Item 6</div>
-        </div>
-
-        <h2>Valor: self-end</h2>
-        <div class="container-align-items valor-self-end">
-            <div class="item-flex">Item 1</div>
-            <div class="item-flex">Item 2</div>
-            <div class="item-flex">Item 3</div>
-            <div class="item-flex">Item 4</div>
-            <div class="item-flex">Item 5</div>
-            <div class="item-flex">Item 6</div>
+        <div class="container-align-items ai-valor-flex-end">
+            <div class="item-flex-tm1">Item 1</div>
+            <div class="item-flex-tm2">Item 2</div>
+            <div class="item-flex-tm3">Item 3</div>
+            <div class="item-flex-tm1">Item 4</div>
+            <div class="item-flex-tm2">Item 5</div>
+            <div class="item-flex-tm3">Item 6</div>
         </div>
 
         <h2>Valor: center</h2>
-        <div class="container-align-items valor-center">
-            <div class="item-flex">Item 1</div>
-            <div class="item-flex">Item 2</div>
-            <div class="item-flex">Item 3</div>
-            <div class="item-flex">Item 4</div>
-            <div class="item-flex">Item 5</div>
-            <div class="item-flex">Item 6</div>
+        <div class="container-align-items ai-valor-center">
+            <div class="item-flex-tm1">Item 1</div>
+            <div class="item-flex-tm2">Item 2</div>
+            <div class="item-flex-tm3">Item 3</div>
+            <div class="item-flex-tm1">Item 4</div>
+            <div class="item-flex-tm2">Item 5</div>
+            <div class="item-flex-tm3">Item 6</div>
         </div>
 
         <h2>Valor: baseline</h2>
-        <div class="container-align-items valor-baseline">
-            <div class="item-flex">Item 1</div>
-            <div class="item-flex">Item 2</div>
-            <div class="item-flex">Item 3</div>
-            <div class="item-flex">Item 4</div>
-            <div class="item-flex">Item 5</div>
-            <div class="item-flex">Item 6</div>
+        <div class="container-align-items ai-valor-baseline">
+            <div class="item-flex-tm1">Item 1</div>
+            <div class="item-flex-tm2">Item 2</div>
+            <div class="item-flex-tm3">Item 3</div>
+            <div class="item-flex-tm1">Item 4</div>
+            <div class="item-flex-tm2">Item 5</div>
+            <div class="item-flex-tm3">Item 6</div>
         </div>
     </div>
 
+    <!--Propriedade align-content-->
     <div class="container">
         <h1>Propriedade align-content</h1>
-        <div class="container-flex valor-">
+        <h2>Valor: flex-start</h2>
+        <div class="container-align-content ac-valor-flex-start">
             <div class="item-flex">Item 1</div>
             <div class="item-flex">Item 2</div>
             <div class="item-flex">Item 3</div>
             <div class="item-flex">Item 4</div>
             <div class="item-flex">Item 5</div>
             <div class="item-flex">Item 6</div>
+            <div class="item-flex">Item 7</div>
+            <div class="item-flex">Item 8</div>
+            <div class="item-flex">Item 9</div>
+            <div class="item-flex">Item 10</div>
+            <div class="item-flex">Item 11</div>
+            <div class="item-flex">Item 12</div>
+            <div class="item-flex">Item 13</div>
+            <div class="item-flex">Item 14</div>
+        </div>
+
+        <h2>Valor: flex-end</h2>
+        <div class="container-align-content ac-valor-flex-end">
+            <div class="item-flex">Item 1</div>
+            <div class="item-flex">Item 2</div>
+            <div class="item-flex">Item 3</div>
+            <div class="item-flex">Item 4</div>
+            <div class="item-flex">Item 5</div>
+            <div class="item-flex">Item 6</div>
+            <div class="item-flex">Item 7</div>
+            <div class="item-flex">Item 8</div>
+            <div class="item-flex">Item 9</div>
+            <div class="item-flex">Item 10</div>
+            <div class="item-flex">Item 11</div>
+            <div class="item-flex">Item 12</div>
+            <div class="item-flex">Item 13</div>
+            <div class="item-flex">Item 14</div>
+        </div>
+
+        <h2>Valor: center</h2>
+        <div class="container-align-content ac-valor-center">
+            <div class="item-flex">Item 1</div>
+            <div class="item-flex">Item 2</div>
+            <div class="item-flex">Item 3</div>
+            <div class="item-flex">Item 4</div>
+            <div class="item-flex">Item 5</div>
+            <div class="item-flex">Item 6</div>
+            <div class="item-flex">Item 7</div>
+            <div class="item-flex">Item 8</div>
+            <div class="item-flex">Item 9</div>
+            <div class="item-flex">Item 10</div>
+            <div class="item-flex">Item 11</div>
+            <div class="item-flex">Item 12</div>
+            <div class="item-flex">Item 13</div>
+            <div class="item-flex">Item 14</div>
+        </div>
+
+        <h2>Valor: space-between</h2>
+        <div class="container-align-content ac-valor-space-between">
+            <div class="item-flex">Item 1</div>
+            <div class="item-flex">Item 2</div>
+            <div class="item-flex">Item 3</div>
+            <div class="item-flex">Item 4</div>
+            <div class="item-flex">Item 5</div>
+            <div class="item-flex">Item 6</div>
+            <div class="item-flex">Item 7</div>
+            <div class="item-flex">Item 8</div>
+            <div class="item-flex">Item 9</div>
+            <div class="item-flex">Item 10</div>
+            <div class="item-flex">Item 11</div>
+            <div class="item-flex">Item 12</div>
+            <div class="item-flex">Item 13</div>
+            <div class="item-flex">Item 14</div>
+        </div>
+
+        <h2>Valor: space-around</h2>
+        <div class="container-align-content ac-valor-space-around">
+            <div class="item-flex">Item 1</div>
+            <div class="item-flex">Item 2</div>
+            <div class="item-flex">Item 3</div>
+            <div class="item-flex">Item 4</div>
+            <div class="item-flex">Item 5</div>
+            <div class="item-flex">Item 6</div>
+            <div class="item-flex">Item 7</div>
+            <div class="item-flex">Item 8</div>
+            <div class="item-flex">Item 9</div>
+            <div class="item-flex">Item 10</div>
+            <div class="item-flex">Item 11</div>
+            <div class="item-flex">Item 12</div>
+            <div class="item-flex">Item 13</div>
+            <div class="item-flex">Item 14</div>
+        </div>
+
+        <h2>Valor: space-evenly</h2>
+        <div class="container-align-content ac-valor-space-evenly">
+            <div class="item-flex">Item 1</div>
+            <div class="item-flex">Item 2</div>
+            <div class="item-flex">Item 3</div>
+            <div class="item-flex">Item 4</div>
+            <div class="item-flex">Item 5</div>
+            <div class="item-flex">Item 6</div>
+            <div class="item-flex">Item 7</div>
+            <div class="item-flex">Item 8</div>
+            <div class="item-flex">Item 9</div>
+            <div class="item-flex">Item 10</div>
+            <div class="item-flex">Item 11</div>
+            <div class="item-flex">Item 12</div>
+            <div class="item-flex">Item 13</div>
+            <div class="item-flex">Item 14</div>
         </div>
     </div>
 </body>
