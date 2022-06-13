@@ -24,6 +24,22 @@ Por padrão os itens flexíveis são distribuídos na ordem que são criados no 
 .item1 {
   order: 3; /*valor padrão é 0*/
 }
+
+.item2 {
+  order: 1;
+}
+
+.item3 {
+  order: 2;
+}
+
+.item4 {
+  order: 5;
+}
+
+.item5 {
+  order: 4;
+}
 ```
 
  <img src="imagens/order.webp" style="width:500px;" />
@@ -58,7 +74,7 @@ O valor desta propriedade deve ser um número positivo e o valor padrão é 1.
 
 ```css
 .item {
-  flex-shrink: 3; /*valor padrão é 1*/
+  flex-shrink: 0; /*valor padrão é 1*/
 }
 ```
 
