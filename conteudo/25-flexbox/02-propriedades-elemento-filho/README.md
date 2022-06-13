@@ -26,7 +26,7 @@ Por padrão os itens flexíveis são distribuídos na ordem que são criados no 
 }
 ```
 
-<img src="order.webp" style="width:500px;" />
+ <img src="imagens/order.webp" style="width:500px;" />
 
 ---
 
@@ -44,7 +44,7 @@ Por exemplo, se todos os itens flexível estiverem com a propriedade `flex-grow`
 }
 ```
 
-<img src="flex-grow.webp" style="width:500px;"/>
+<img src="imagens/flex-grow.webp" style="width:500px;"/>
 
 ---
 
@@ -62,7 +62,7 @@ O valor desta propriedade deve ser um número positivo e o valor padrão é 1.
 }
 ```
 
-<img src="flex-shrink.webp" style="width:500px;"/>
+<img src="imagens/flex-shrink.webp" style="width:500px;"/>
 
 ---
 
@@ -108,7 +108,7 @@ Os valores disponíveis são os mesmos do da propriedade `align-items`.
 }
 ```
 
-<img src="align-items.webp" style="width:600px;"/>
+<img src="imagens/align-items.webp" style="width:600px;"/>
 
 ***
 
